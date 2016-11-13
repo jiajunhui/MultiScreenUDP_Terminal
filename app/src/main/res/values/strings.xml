@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiScreen_UDP_Terminal</string>
+    <string name="menu_main">未连接</string>
+</resources>
